@@ -1,0 +1,13 @@
+Analyse mystère5.wav
+
+Seconde 4 -> 13 OISEAU QUI CHANTE (pigeon)
+ 
+Bruit de fond tout le long (Mésange)
+
+-> Facteurs d'identification :
+    - Amplitude
+    - Fréquence
+    - Cadence
+
+-> On veut obtenir un spectrogramme (frequence/amplitude en fct du temps)
+-> On a besoin de déduire fréq d'échantillonage et bits d'echhantillonage
