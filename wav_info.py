@@ -1,7 +1,6 @@
 import argparse
 import wave
 from pathlib import Path
-
 import numpy as np
 
 DTYPES = {1: np.uint8, 2: np.int16, 4: np.int32}  # sample width (bytes) -> dtype
