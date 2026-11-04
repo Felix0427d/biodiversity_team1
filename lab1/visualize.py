@@ -2,7 +2,7 @@ import wave
 from pathlib import Path
 import matplotlib.pyplot as plt
 import numpy as np
-from wav_info import decode
+from lab1.wav_info import decode
 
 DTYPES = {1: np.uint8, 2: np.int16, 4: np.int32}
 
